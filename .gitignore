@@ -1,0 +1,36 @@
+# Ignore build files and binaries
+*.obj
+*.pdb
+*.exe
+*.lib
+*.dll
+*.exp
+*.ilk
+*.log
+
+# Visual Studio files
+.vscode/
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+build/
+out/
+
+# Ignore dependencies folder
+Dependencies/
+
+# Ignore backup/temporary files
+*.tmp
+*.bak
+*.old
+*.swp
+.DS_Store
+Thumbs.db
