@@ -11,6 +11,7 @@ x64/
 *.obj
 *.pch
 *.pdb
+*.spv
 
 # Visual Studio files
 .vscode/
